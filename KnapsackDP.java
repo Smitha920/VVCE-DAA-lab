@@ -1,3 +1,5 @@
+//Implementation of 0/1 knapsack problem using Dynamic Programming.
+
 import java.util.Scanner;
 
 public class KnapsackDP {
